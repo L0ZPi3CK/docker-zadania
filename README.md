@@ -1,4 +1,4 @@
-# Docker-Zadania
+# Zadanie1 - Algorytmy
 
 Aby uruchomić kod należy:
 
