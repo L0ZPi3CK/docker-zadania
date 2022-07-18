@@ -1,2 +1,5 @@
 # Docker-Zadania
- Zad.1 Algorytmika
+
+```console
+ git clone https://github.com/L0ZPi3CK/docker-zadania/
+```
