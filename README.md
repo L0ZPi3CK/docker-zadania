@@ -9,7 +9,7 @@ Aby uruchomić kod należy:
 ```
 
 2. Następnie będąc w docker-zadania  
-![obraz](https://user-images.githubusercontent.com/84734341/179546941-1efa0efa-232a-436d-b8e4-2d00573a069c.png)  
+![obraz](https://user-images.githubusercontent.com/84734341/179546941-1efa0efa-232a-436d-b8e4-2d00573a069c.png) <br/>
 Zbudować obraz za pomocą 
 ```console
 docker build .
