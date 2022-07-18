@@ -12,7 +12,7 @@ Aby uruchomić kod należy:
 ```console
 docker build .
 ```
-![obraz](https://user-images.githubusercontent.com/84734341/179549627-264809bd-0e2a-41ee-9be9-f8075ec1e381.png)
+![obraz](https://user-images.githubusercontent.com/84734341/179549627-264809bd-0e2a-41ee-9be9-f8075ec1e381.png)  
 | -t dodaje tag
 
 3. Sprawdzić IMAGE ID lub TAG który nadaliśmy
