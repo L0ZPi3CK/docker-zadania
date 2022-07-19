@@ -33,6 +33,8 @@ docker run *IMAGE ID lub REPOSITORY:TAG*
 pierwszego długości *x* i drugiego dłygości *πx*, następnie losowo wybierania punktów na obu tych odcinkach.
 Jak łatwo zauważyć trafień w drugi odcinek powinno być więcej o dokładnie π razy. Jednak ta metoda wymaga znajomości π.
 
-Zrobiłem więc research i trafiłem na metodę która nie wymaga znajomości π. Należy:
-- Wylosować 2 punkty (dla uproszczenia x i y) z przedziału -1 do 1
-- Jeśli x * x + y * y;
+Zrobiłem więc research i trafiłem na metodę która nie wymaga znajomości π. Wynika z niej iż w momencie losowania punktów
+na obszarze kwadratu, który posiada wpisany okrąg, ilość trafień w pole trójkąta podzielona przez całkowitą ilość trafień(pole kwadratu)
+i pomnożona przez 4 daje π. Bierze się to z z wzorów na pole kwadratu i koła ->
+Pole koła: πr<sup>2</sup>        | r - srednica koła
+Pole kwadratu: 4r<sup>2</sup>    | r - połowa boku kwadratu
