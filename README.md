@@ -60,12 +60,12 @@ Podsumowując im większa ilość wprowadzonych próbek tym wynik bliższy jest 
 Obejrzałem kilka filmów tłumaczących iddę dockera, pobrałem i zainstalowałem go, a następnie obejrzałem kilka filmów tłumaczących jak stworzyć   
 dockerfile, jak zbudować projekt, i jak uzyskać kontener oraz jak nimi zarządzać. 
 
-Stworzyłem więc Dockerfile i umieściłem go w jednym katalogu z algorytmem napisanym w c++
-<img src="https://user-images.githubusercontent.com/84734341/179731013-9da62e52-21ec-4d4f-aea6-1a4f0daead59.JPG" width="100" height="100">
+Stworzyłem więc Dockerfile i umieściłem go w jednym katalogu z algorytmem napisanym w c++  
+<img src="https://user-images.githubusercontent.com/84734341/179731013-9da62e52-21ec-4d4f-aea6-1a4f0daead59.JPG" width="250">
 
 Zbudowałem projekt  
-<img src="https://user-images.githubusercontent.com/84734341/179731516-ed1bc793-2342-4ba8-9063-909b1630cdb6.JPG" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/84734341/179731516-ed1bc793-2342-4ba8-9063-909b1630cdb6.JPG" width="250">
 
-<img src="https://user-images.githubusercontent.com/84734341/179731545-f5bc4ea6-a18a-4e34-8a4b-931abbf8795f.JPG" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/84734341/179731545-f5bc4ea6-a18a-4e34-8a4b-931abbf8795f.JPG" width="250">
 
-<img src="https://user-images.githubusercontent.com/84734341/179731562-9e328f6e-51be-4fdc-a5ac-d3e074442648.JPG" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/84734341/179731562-9e328f6e-51be-4fdc-a5ac-d3e074442648.JPG" width="250">
