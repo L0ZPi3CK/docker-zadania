@@ -76,7 +76,7 @@ Pozostałe projekty nie były mi potrzebne więc je usunąłem.
 <img src="https://user-images.githubusercontent.com/84734341/179733429-be247ee5-c4ea-409d-824e-b1271437dda0.JPG" width="400">  
   
 Mając poprawnie zbudowany projekt wystarczyło go uruchomić za pomocą run  
-<img src="(https://user-images.githubusercontent.com/84734341/179733683-a5333370-25aa-4ab6-a386-4ea2816ff4e6.JPG" width="400">  
+<img src="https://user-images.githubusercontent.com/84734341/179733683-a5333370-25aa-4ab6-a386-4ea2816ff4e6.JPG" width="400">  
   
 Tak oto uzyskałem kontener:  
 <img src="https://user-images.githubusercontent.com/84734341/179734204-1e0631bb-d316-4bf0-a0d3-5339e11f686f.JPG" width="400">  
