@@ -50,6 +50,6 @@ Dla 100: &emsp; &nbsp; Wyniki w zdecydowanej większości mieszczą się w zakre
 Dla 1000: &emsp; Wyniki w zdecydowanej większości mieszczą się w zakresie od 3.00 do 3.25  
 Dla 10000: &ensp; &nbsp; Wyniki w zdecydowanej większości mieszczą się w zakresie od 3.10 do 3.18  
 Dla 100000: &ensp; Wyniki w zdecydowanej większości mieszczą się w zakresie od 3.13 do 3.15  
-Dla 1000000: &nbsp; Wyniki w zdecydowanej większości mieszczą się w zakresie od 3.138 do 3.145  
+Dla 1000000:    Wyniki w zdecydowanej większości mieszczą się w zakresie od 3.138 do 3.145  
 Dla 10000000: Wyniki w zdecydowanej większości mieszczą się w zakresie od 3.140 do 3.142  
 Podsumowując im większa ilość wprowadzonych próbek tym wynik bliższy jest liczbie π.  
