@@ -45,7 +45,7 @@ Daje to końcowo πr<sup>2</sup>/4r<sup>2</sup> czyli π/4
 Metodę tą zastosowałem w swoim programie i w zależności od ilości wylosowanych punktów zauważyłem:  
  
 Dla 1: Wyniki zawierają się w przedziale od 0 do 4    
-Dla 10:      Wyniki w zdecydowanej większości mieszczą się w zakresie od 2 do 4    
+Dla 10: \t Wyniki w zdecydowanej większości mieszczą się w zakresie od 2 do 4    
 Dla 100: Wyniki w zdecydowanej większości mieszczą się w zakresie od 2.50 do 3.50    
 Dla 1000: Wyniki w zdecydowanej większości mieszczą się w zakresie od 3.00 do 3.25  
 Dla 10000: Wyniki w zdecydowanej większości mieszczą się w zakresie od 3.10 do 3.18  
