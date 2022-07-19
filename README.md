@@ -35,6 +35,6 @@ Jak łatwo zauważyć trafień w drugi odcinek powinno być więcej o dokładnie
 
 Zrobiłem więc research i trafiłem na metodę która nie wymaga znajomości π. Wynika z niej iż w momencie losowania punktów
 na obszarze kwadratu, który posiada wpisany okrąg, ilość trafień w pole trójkąta podzielona przez całkowitą ilość trafień(pole kwadratu)
-i pomnożona przez 4 daje π. Bierze się to z z wzorów na pole kwadratu i koła ->
-Pole koła: πr<sup>2</sup>        | r - srednica koła
-Pole kwadratu: 4r<sup>2</sup>    | r - połowa boku kwadratu
+i pomnożona przez 4 daje π. Bierze się to z z wzorów na pole kwadratu i koła ->  
+Pole koła: πr<sup>2</sup>        | r - srednica koła  
+Pole kwadratu: 4r<sup>2</sup>    | r - połowa boku kwadratu  
