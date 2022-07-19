@@ -82,3 +82,6 @@ Tak oto uzyskałem kontener:
 <img src="https://user-images.githubusercontent.com/84734341/179734204-1e0631bb-d316-4bf0-a0d3-5339e11f686f.JPG" width="400">  
 <img src="https://user-images.githubusercontent.com/84734341/179734178-f580b23f-10ce-4731-b09c-e99122617e37.JPG" height="400">  
 
+# Podsumowanie
+Aby dojść do tego momentu musiałem poznać (choć trochę) iddę dockera i zasadę jego działania. Dowiedziałem się o jego niektorych możliwościach  
+i przećwiczyłem podstawowe komendy. Jeśli chodzi o algorytm to dowiedziałem się co to metoda Monte Carlo
