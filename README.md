@@ -44,14 +44,19 @@ Daje to końcowo πr<sup>2</sup>/4r<sup>2</sup> czyli π/4
   
 Metodę tą zastosowałem w swoim programie i w zależności od ilości wylosowanych punktów zauważyłem:  
 Dla 1: Wynik zawsze będzie wynosił 4  
+  
 Dla 10: Uzyskujemy wynik z dokładnością do jednego miejsca po przecinku w zakresie od 2 do 4  
+  
 Dla 100: Uzyskujemy wynik z dokładnością do dwóch miejsc po przecinku,  
 a wyniki w zdecydowanej większości mieszczą się w zakresie od 2.50 do 3.50  
+  
 Dla 1000: Uzyskujemy wynik z dokładnością do trzech miejsc po przecinku,  
 a wyniki w zdecydowanej większości mieszczą się w zakresie od 3.000 do 3.250  
+  
 Dla 10000: Uzyskujemy wynik z dokładnością do czterech miejsc po przecinku,  
 a wyniki w zdecydowanej większości mieszczą się w zakresie 3.1000 do 3.1800  
+  
 Dla 100000: Uzyskujemy wynik z dokładnością do pięciu miejsc po przecinku,  
 a wyniki w zdecydowanej większości mieszczą się w zakresie 3.13000 do 3.15000  
-  
+    
 Podsumowując im większa ilość wprowadzonych próbek tym wynik bliższy jest liczbie π.
