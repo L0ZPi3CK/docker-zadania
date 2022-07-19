@@ -36,6 +36,18 @@ Jak łatwo zauważyć trafień w drugi odcinek powinno być więcej o dokładnie
 Zrobiłem więc research i trafiłem na metodę która nie wymaga znajomości π. Wynika z niej iż w momencie losowania punktów
 na obszarze kwadratu, który posiada wpisany okrąg, ilość trafień w pole trójkąta podzielona przez całkowitą ilość trafień(pole kwadratu)
 i pomnożona przez 4 daje π. Bierze się to z z wzorów na pole kwadratu i koła ->  
-r - połowa boku kwadratu/srednica koła  
+  
+r - połowa boku kwadratu/średnica koła  
 Pole koła: πr<sup>2</sup> &nbsp;  
 Pole kwadratu: 4r<sup>2</sup> &nbsp;  
+Daje to końcowo πr<sup>2</sup>/4r<sup>2</sup> czyli π/4
+  
+Metodę tą zastosowałem w swoim programie i w zależności od ilości wylosowanych punktów zauważyłem:  
+Dla 1: Wynik zawsze będzie wynosił 4  
+Dla 10: Uzyskujemy wynik z dokładnością do jednego miejsca po przecinku w zakresie od 2 do 4  
+Dla 100: Uzyskujemy wynik z dokładnością do dwóch miejsc po przecinku, a wyniki w zdecydowanej większości mieszczą się w zakresie od 2.50 do 3.50  
+Dla 1000: Uzyskujemy wynik z dokładnością do trzech miejsc po przecinku, a wyniki w zdecydowanej większości mieszczą się w zakresie od 3.000 do 3.250  
+Dla 10000: Uzyskujemy wynik z dokładnością do czterech miejsc po przecinku, a wyniki w zdecydowanej większości mieszczą się w zakresie 3.1000 do 3.1800  
+Dla 100000: Uzyskujemy wynik z dokładnością do pięciu miejsc po przecinku, a wyniki w zdecydowanej większości mieszczą się w zakresie 3.13000 do 3.15000  
+  
+Podsumowując im większa ilość wprowadzonych próbek tym wynik bliższy jest liczbie π.
