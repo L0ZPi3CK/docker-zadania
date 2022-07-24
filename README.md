@@ -84,4 +84,4 @@ Tak oto uzyskałem kontener:
 
 # Podsumowanie
 Aby dojść do tego momentu musiałem poznać (choć trochę) ideę dockera i zasadę jego działania. Dowiedziałem się o jego niektorych możliwościach
-i przećwiczyłem podstawowe komendy. Jeśli chodzi o algorytm to dowiedziałem się co to metoda Monte Carlo
+i przećwiczyłem podstawowe komendy. Jeśli chodzi o algorytm to dowiedziałem się co to metoda Monte Carlo.
